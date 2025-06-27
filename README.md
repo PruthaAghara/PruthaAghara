@@ -1,5 +1,5 @@
-## Hi there 👋
-This is the Git - repossitory.
+# HI 
+This is the Git - repossitory yahhh.
 <!--
 **PruthaAghara/PruthaAghara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
